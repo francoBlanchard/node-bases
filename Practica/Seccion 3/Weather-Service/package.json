@@ -1,0 +1,19 @@
+{
+  "name": "weather-service",
+  "version": "1.0.0",
+  "description": "sistema de clima",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/app.js",
+    "start": "node src/app.js"
+  },
+  "author": "Franco Blanchard",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^13.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
