@@ -1,14 +1,14 @@
 
 
 const emailTemplate = `
-    <div>
-        <h1>Hi, {{name}}</h1>
-        <p>Thank you four your order.</p>
-    <div>
-`;
+<div>
+    <h1>Hi, {{name}}</h1>
+    <p>Thank you for your order.</p>
+    <p>Order ID: {{orderId}}</p>
+</div>`;
 
 
-//exporto un OBJETO
+
 module.exports = {
-    emailTemplate
-};
+  emailTemplate
+}
