@@ -1,0 +1,1 @@
+{"version":3,"file":"get-id.plugin.js","sourceRoot":"","sources":["../../src/plugins/get-id.plugin.ts"],"names":[],"mappings":"AAAA,MAAM,EAAE,EAAE,EAAE,MAAM,EAAE,GAAG,OAAO,CAAC,MAAM,CAAC,CAAC;AAGvC,4CAA4C;AAE5C,MAAM,OAAO,GAAG,GAAG,EAAE;IAEnB,OAAO,MAAM,EAAE,CAAC;AAClB,CAAC,CAAA;AAGD,MAAM,CAAC,OAAO,GAAG;IACf,OAAO;CACR,CAAA"}

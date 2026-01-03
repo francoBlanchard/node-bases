@@ -8,3 +8,5 @@
 {"level":"info","message":"hola mundo","service":"app.js"}
 {"level":"info","message":"hola mundo","service":"app.js"}
 {"level":"info","message":"hola mundo","service":"app.js","timestamp":"2026-01-03T14:28:22.803Z"}
+{"level":"info","message":"Hola mundo","service":"app.js","timestamp":"2026-01-03T21:43:44.352Z"}
+{"level":"error","message":"error Esto es algo malo","service":"app.js","timestamp":"2026-01-03T21:43:44.356Z"}

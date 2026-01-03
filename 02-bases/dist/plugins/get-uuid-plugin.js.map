@@ -1,0 +1,1 @@
+{"version":3,"file":"get-uuid-plugin.js","sourceRoot":"","sources":["../../src/plugins/get-uuid-plugin.ts"],"names":[],"mappings":"AAAA,MAAM,EAAE,EAAE,EAAE,MAAM,EAAE,GAAG,OAAO,CAAE,MAAM,CAAC,CAAC;AAExC,MAAM,OAAO,GAAG,GAAG,EAAE,CAAC,MAAM,EAAE,CAAC;AAE/B,MAAM,CAAC,OAAO,GAAG;IACb,OAAO;CACV,CAAA"}
